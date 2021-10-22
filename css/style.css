@@ -1,0 +1,11 @@
+.cotainer{
+    position: relative;
+    width: 1140px;
+    margin: 0 auto;
+    background-color:whitesmoke;
+}
+
+body{
+    background-image:url("../img/rty.jpg");
+     
+}
